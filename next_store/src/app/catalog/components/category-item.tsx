@@ -16,7 +16,7 @@ const CategoryItem = ({ category }: CategoryItemProps) => {
             alt={category.name}
             width={0}
             height={0}
-            sizes="200vw"
+            sizes="500vw"
             className="h-auto max-h-[80%] w-auto max-w-[80%]"
             style={{ objectFit: "contain" }}
           />
