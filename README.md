@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Um ecommerce feito com NextJs, Prisma, ShadCN (Em andamento).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Algumas imagens do projeto:
+![Captura de Tela (397)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/d696d24e-a725-4faf-8427-0aa86b9e86d4)
+![Captura de Tela (396)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/c53258f8-62ff-4603-b873-a56c41c39edc)
+![Captura de Tela (400)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/295efa20-a29d-4e28-913a-d222343f7a0c)
+![Captura de Tela (399)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/2ea18623-6752-4fde-845b-47eb8cc3a67a)
+![Captura de Tela (398)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/b19ccda3-4e59-46a0-9ec2-a79c1f581a57)
