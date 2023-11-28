@@ -15,6 +15,10 @@ Tailwind CSS: Um framework CSS que oferece várias classes para utilização já
 
 API do Stripe: Uma API de pagamento popular para processar pagamentos online de forma segura.
 
+## Link do deploy
+
+https://next-store-leonardoalves04.vercel.app
+
 ## Funcionalidades 📦
 
 Login com o Google: Permitimos que os usuários façam login usando suas contas do Google para uma experiência de autenticação simplificada.
@@ -38,3 +42,4 @@ Pagamento do Pedido com a API do Stripe: Oferecemos uma experiência segura de p
 ![Captura de Tela (399)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/2ea18623-6752-4fde-845b-47eb8cc3a67a)
 #
 ![Captura de Tela (398)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/b19ccda3-4e59-46a0-9ec2-a79c1f581a57)
+
