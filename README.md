@@ -27,7 +27,7 @@ Gerenciamento do Carrinho de Compras: Os usuários podem adicionar produtos ao s
 
 Pagamento do Pedido com a API do Stripe: Oferecemos uma experiência segura de pagamento online com a integração da API do Stripe, incluindo o uso de webhooks para processar eventos relacionados ao pagamento. Os usuários podem concluir seus pedidos com facilidade e segurança.
 
-Algumas imagens do projeto:
+## Algumas imagens do projeto (mobile e desktop)📷:
 
 ![Captura de Tela (397)](https://github.com/LeonardoAlves04/nextStore/assets/69488943/d696d24e-a725-4faf-8427-0aa86b9e86d4)
 #
