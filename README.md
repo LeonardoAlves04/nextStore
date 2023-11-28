@@ -1,7 +1,3 @@
-
-
-## Projeto de um Ecommerce feito com NextJs
-
 ## Tecnologias Utilizadas 🚀
 React: Uma biblioteca JavaScript popular para construir interfaces de usuário interativas.
 
