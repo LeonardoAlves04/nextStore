@@ -72,10 +72,17 @@ const Header = () => {
           )}
 
           <div className="mt-4 flex flex-col gap-2">
-            <Button variant="outline" className="w-full justify-start gap-2">
-              <HomeIcon size="18" />
-              Início
-            </Button>
+            <SheetClose asChild>
+              <Link href={"/"}>
+                <Button
+                  variant="outline"
+                  className="w-full justify-start gap-2"
+                >
+                  <HomeIcon size="18" />
+                  Início
+                </Button>
+              </Link>
+            </SheetClose>
 
             {status === "unauthenticated" && (
               <Button
