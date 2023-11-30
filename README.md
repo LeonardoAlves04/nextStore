@@ -1,4 +1,4 @@
-## Agência de reserva de viagens 
+## Ecommerce de periféricos e produtos para computadores
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=next&message=framework&color=blue&style=for-the-badge&logo=Next"/>
