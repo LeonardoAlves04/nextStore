@@ -22,7 +22,7 @@
 ## Descrição do projeto 📝
 
 <p align="justify">
-Um Ecommerce que vende mouses,teclados,monitores e coisas relacionadas a computadores. Você pode pesquisar por seção que vc deseja e selecionar a quantidade de produtos e adicioná-los ao carrinhom, contéendo um sistema de pagamento real com a integração do stripe (uma API de pagamento), e para testar você pode usar o cartão de teste, basta apenas preencher com: 4242 4242 4242 4242).
+Um Ecommerce que vende mouses, teclados, monitores e coisas relacionadas a computadores. Você pode pesquisar por seção que vc deseja e selecionar a quantidade de produtos e adicioná-los ao carrinhom, contéendo um sistema de pagamento real com a integração do stripe (uma API de pagamento), e para testar você pode usar o cartão de teste, basta apenas preencher com: 4242 4242 4242 4242).
 
 </p>
 
