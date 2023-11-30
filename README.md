@@ -42,7 +42,7 @@ Um Ecommerce que vende mouses, teclados, monitores e coisas relacionadas a compu
 
 ## Deploy da Aplicação :dash:
 
-Deploy: [https://fsw-trips-leonardoalves04.vercel.app](https://next-store-leonardoalves04.vercel.app)
+Deploy: (https://next-store-leonardoalves04.vercel.app)
 
 ## Linguagens e libs utilizadas :books:
 
