@@ -54,6 +54,7 @@ model OrderProduct {
   order              Order   @relation(fields: [orderId], references: [id])
   basePrice          Decimal @db.Decimal(8, 2)
   discountPercentage Int     @default(0)
+  quantity           Int
 }
 
 model Account {
