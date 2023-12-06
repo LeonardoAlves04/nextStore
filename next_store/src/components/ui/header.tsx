@@ -10,6 +10,7 @@ import {
   PercentIcon,
   ListOrderedIcon,
   LogOutIcon,
+  PackageSearch,
 } from "lucide-react";
 import {
   Sheet,
@@ -95,17 +96,6 @@ const Header = () => {
               </Button>
             )}
 
-            {status === "authenticated" && (
-              <Button
-                onClick={handleLogoutClick}
-                variant="outline"
-                className="w-full justify-start gap-2"
-              >
-                <LogOutIcon size="18" />
-                Sair
-              </Button>
-            )}
-
             <SheetClose asChild>
               <Link href={"/deals"}>
                 <Button
@@ -129,6 +119,29 @@ const Header = () => {
                 </Button>
               </Link>
             </SheetClose>
+
+            <SheetClose asChild>
+              <Link href="/orders">
+                <Button
+                  variant="outline"
+                  className="w-full justify-start gap-2"
+                >
+                  <PackageSearch size="18" />
+                  Meus Pedidos
+                </Button>
+              </Link>
+            </SheetClose>
+
+            {status === "authenticated" && (
+              <Button
+                onClick={handleLogoutClick}
+                variant="outline"
+                className="w-full justify-start gap-2"
+              >
+                <LogOutIcon size="18" />
+                Sair
+              </Button>
+            )}
           </div>
         </SheetContent>
       </Sheet>
