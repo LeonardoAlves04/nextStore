@@ -10,7 +10,7 @@ import {
   PercentIcon,
   ListOrderedIcon,
   LogOutIcon,
-  PackageSearch,
+  PackageSearchIcon,
 } from "lucide-react";
 import {
   Sheet,
@@ -126,7 +126,7 @@ const Header = () => {
                   variant="outline"
                   className="w-full justify-start gap-2"
                 >
-                  <PackageSearch size="18" />
+                  <PackageSearchIcon size="18" />
                   Meus Pedidos
                 </Button>
               </Link>
