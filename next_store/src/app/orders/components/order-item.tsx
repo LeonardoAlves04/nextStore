@@ -7,11 +7,16 @@ import {
 import { Card } from "@/components/ui/card";
 import { Prisma } from "@prisma/client";
 import { format } from "date-fns";
+import OrderProductItem from "./order-product-item";
 
 interface OrderItemProps {
   order: Prisma.OrderGetPayload<{
     include: {
-      orderProducts: true;
+      orderProducts: {
+        include: {
+          product: true;
+        };
+      };
     };
   }>;
 }
@@ -45,12 +50,16 @@ const OrderItem = ({ order }: OrderItemProps) => {
 
                   <div>
                     <p className="font-bold">Pagamento</p>
-                    <p className="opacity-60">
-                      Cartão
-                      {format(order.createdAt, "dd/MM/y")}
-                    </p>
+                    <p className="opacity-60">Cartão</p>
                   </div>
                 </div>
+
+                {order.orderProducts.map((orderProduct) => (
+                  <OrderProductItem
+                    key={orderProduct.id}
+                    orderProduct={orderProduct}
+                  />
+                ))}
               </div>
             </AccordionContent>
           </AccordionItem>
