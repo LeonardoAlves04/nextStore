@@ -17,8 +17,6 @@ const Cart = () => {
 
   const { products, subtotal, total, totalDiscount } = useContext(CartContext);
 
-  console.log(data?.user);
-
   const handleFinishPurchaseClick = async () => {
     if (!data?.user) {
       return;
