@@ -9,8 +9,8 @@ interface CategoryItemProps {
 const CategoryItem = ({ category }: CategoryItemProps) => {
   return (
     <Link href={`category/${category.slug}`}>
-      <div className="flex flex-col">
-        <div className="flex h-[150px] w-full items-center justify-center rounded-tl-lg rounded-tr-lg bg-gradient-to-r from-[#008000] to-[#47E10C]">
+      <div className="lg:grid-cols flex flex-col lg:grid">
+        <div className="flex h-[150px] w-full items-center justify-center rounded-tl-lg rounded-tr-lg bg-gradient-to-r from-[#008000] to-[#47E10C] lg:w-[80%]">
           <Image
             src={category.imageUrl}
             alt={category.name}
@@ -22,7 +22,7 @@ const CategoryItem = ({ category }: CategoryItemProps) => {
           />
         </div>
 
-        <div className="rounded-bl-lg rounded-br-lg bg-accent py-3">
+        <div className="rounded-bl-lg rounded-br-lg bg-accent py-3 lg:w-[80%]">
           <p className="text-center text-sm font-semibold">{category.name}</p>
         </div>
       </div>
