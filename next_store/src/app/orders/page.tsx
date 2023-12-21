@@ -30,14 +30,14 @@ async function OrderPage() {
   return (
     <div className="p-5">
       <Badge
-        className="w-fit gap-1 border-2 border-primary px-3 py-[0.375rem] text-base uppercase"
+        className="w-fit gap-1 border-2 border-primary px-3 py-[0.375rem] text-base uppercase lg:m-auto lg:flex"
         variant="outline"
       >
         <PackageSearchIcon size={16} />
         Meus Pedidos
       </Badge>
 
-      <div className="mt-5 flex flex-col gap-5">
+      <div className="mt-5 flex flex-col gap-5 lg:m-auto lg:mt-5 lg:max-w-lg">
         {order.map((order) => (
           <OrderItem key={order.id} order={order} />
         ))}
