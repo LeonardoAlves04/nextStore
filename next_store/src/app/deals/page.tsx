@@ -23,7 +23,7 @@ const DealsPage = async () => {
         Ofertas
       </Badge>
 
-      <div className="grid grid-cols-2 gap-8 lg:flex lg:flex-wrap lg:justify-center">
+      <div className="grid-cols-2 gap-8 lg:m-auto lg:grid lg:grid-cols-5 lg:gap-10 ">
         {deals.map((product) => (
           <ProductItem
             key={product.id}

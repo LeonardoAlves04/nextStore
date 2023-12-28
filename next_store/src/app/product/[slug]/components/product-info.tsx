@@ -75,7 +75,7 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
       </div>
 
       <Button
-        className="mt-8 font-bold uppercase"
+        className="mt-8 font-bold uppercase lg:m-auto lg:mt-5 lg:h-[50px] lg:max-w-lg"
         onClick={handleAddToCartClick}
       >
         Adicionar ao carrinho
