@@ -10,7 +10,7 @@
 
 *::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #888;
+  background: #47e10c;
 }
 
 @layer base {
