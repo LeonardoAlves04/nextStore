@@ -50,7 +50,7 @@ export default async function Home() {
         alt="Até 55% de desconto em mouses!"
       />
 
-      <div>
+      <div className="lg:m-auto">
         <SectionTitle>Teclados</SectionTitle>
         <ProductList products={keyboard} />
       </div>
@@ -62,7 +62,7 @@ export default async function Home() {
         />
       </div>
 
-      <div>
+      <div className="lg:m-auto">
         <SectionTitle>Mouses</SectionTitle>
         <ProductList products={mouses} />
       </div>
