@@ -8,7 +8,8 @@ async function main() {
       data: {
         name: "Mouses",
         slug: "mouses",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/mouses.png",
+        imageUrl:
+          "https://utfs.io/f/fa113099-3631-412a-9d1c-e1ee94f5065c-2e8fvg.png",
       },
     });
 
@@ -49,10 +50,10 @@ async function main() {
         description:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id malesuada elit, eget vulputate justo. Sed sollicitudin velit dolor, ut gravida odio iaculis a.\nNulla risus justo, tempor eu felis eu, efficitur pulvinar risus. Sed viverra, nisi id egestas convallis, massa lorem convallis magna, vel convallis mi turpis nec ante. Maecenas posuere lacus id gravida dignissim. Morbi sit amet rutrum ex. Duis sit amet sem orci. Morbi non nisl sed mauris mattis ullamcorper quis eget metus.\nUt pellentesque ornare erat, vitae blandit ex pulvinar sit amet. Ut pellentesque lorem at eros vestibulum lobortis. Proin bibendum est facilisis nulla tristique vestibulum. Etiam placerat tortor sit amet lacinia volutpat. Curabitur lectus turpis, faucibus vitae tortor in, lacinia tristique neque.",
         imageUrls: [
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/01_logi-lightspeed.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/02_logi-lightspeed.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/03_logi-lightspeed.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/04_logi-lightspeed.png",
+          "https://utfs.io/f/670d9709-cd52-4023-92a7-4846e9624237-96uy63.png",
+          "https://utfs.io/f/1f3d3912-7f43-40b3-b3f4-44a5f569d005-7arrs6.png",
+          "https://utfs.io/f/a20a9fdf-2f14-43b1-b547-0b997d65fb06-nsehqf.png",
+          "https://utfs.io/f/c6e7b062-5d3f-40b4-8799-ac31ab96dec9-ur2uag.png",
         ],
         basePrice: 300,
         categoryId: mousesCategory.id,
@@ -98,7 +99,8 @@ async function main() {
       data: {
         name: "Teclados",
         slug: "keyboards",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/keyboards.png",
+        imageUrl:
+          "https://utfs.io/f/fcbdcfa5-4405-4ace-9084-70f5fea69578-203nz.webp",
       },
     });
 
@@ -124,10 +126,10 @@ async function main() {
         description:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id malesuada elit, eget vulputate justo. Sed sollicitudin velit dolor, ut gravida odio iaculis a.\nNulla risus justo, tempor eu felis eu, efficitur pulvinar risus. Sed viverra, nisi id egestas convallis, massa lorem convallis magna, vel convallis mi turpis nec ante. Maecenas posuere lacus id gravida dignissim. Morbi sit amet rutrum ex. Duis sit amet sem orci. Morbi non nisl sed mauris mattis ullamcorper quis eget metus.\nUt pellentesque ornare erat, vitae blandit ex pulvinar sit amet. Ut pellentesque lorem at eros vestibulum lobortis. Proin bibendum est facilisis nulla tristique vestibulum. Etiam placerat tortor sit amet lacinia volutpat. Curabitur lectus turpis, faucibus vitae tortor in, lacinia tristique neque.",
         imageUrls: [
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/01_logi-mx-keys-s.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/02_logi-mx-keys-s.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/03_logi-mx-keys-s.png",
-          "https://fsw-store.s3.sa-east-1.amazonaws.com/04_logi-mx-keys-s.png",
+          "https://utfs.io/f/e5ccfa29-3768-4856-b9de-d63c2d57f52e-5uw56n.png",
+          "https://utfs.io/f/b84ab38c-b258-46ef-8632-173cb029811b-amqkrm.png",
+          "https://utfs.io/f/2e28cce7-cdf3-497a-8cd9-ebb896e0102b-r4dapv.png",
+          "https://utfs.io/f/80663b0c-dc9d-46d9-a2b0-428fc4c6f596-rf41b0.png",
         ],
         basePrice: 750,
         categoryId: keyboardsCategory.id,
@@ -203,7 +205,8 @@ async function main() {
       data: {
         name: "Fones",
         slug: "headphones",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/headphones.png",
+        imageUrl:
+          "https://utfs.io/f/af05884d-3ccb-4b44-9b26-2f48103da4b2-yo44v5.png",
       },
     });
 
@@ -308,7 +311,8 @@ async function main() {
       data: {
         name: "Mousepads",
         slug: "mousepads",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/mousepads.png",
+        imageUrl:
+          "https://utfs.io/f/31f7bd90-7b9d-4eb4-837a-a2149d467ad2-xewj09.png",
       },
     });
 
@@ -413,7 +417,8 @@ async function main() {
       data: {
         name: "Monitores",
         slug: "monitors",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/monitors.png",
+        imageUrl:
+          "https://utfs.io/f/e6fc4c42-b09c-4676-b83b-9f54fdbec79b-4gjxgg.png",
       },
     });
 
@@ -518,7 +523,8 @@ async function main() {
       data: {
         name: "Speakers",
         slug: "speakers",
-        imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/speakers.png",
+        imageUrl:
+          "https://utfs.io/f/8d85fea5-804c-4168-a80b-36840dfbea5b-1t9j91.png",
       },
     });
 
