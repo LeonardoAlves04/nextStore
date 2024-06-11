@@ -7,7 +7,6 @@ import Footer from "@/components/ui/footer";
 import CartProvider from "@/providers/cart";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { link } from "fs";
 
 const inter = Inter({ subsets: ["latin"] });
 
