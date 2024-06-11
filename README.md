@@ -63,5 +63,9 @@ Deploy: https://next-store-leonardoalves04.vercel.app
 
 - API do Stripe: Uma API de pagamento popular para processar pagamentos online de forma segura.
 
-## Imagens do projeto (Desktop e Mobile):
+## Imagens do projeto:
+![Captura de tela 2024-04-12 140341](https://github.com/LeonardoAlves04/nextStore/assets/69488943/49431fa9-c524-4b3c-badf-b5d3e291bcbb)
+![Captura de tela 2024-04-12 140359](https://github.com/LeonardoAlves04/nextStore/assets/69488943/d1a8a00e-406f-4d11-a62d-4732b5bdac37)
+![Captura de tela 2024-04-12 140414](https://github.com/LeonardoAlves04/nextStore/assets/69488943/0a22f4fa-4f00-4395-aac2-13907921f61a)
+![Captura de tela 2024-04-12 140432](https://github.com/LeonardoAlves04/nextStore/assets/69488943/3cb80339-1b3b-4f6b-ba29-0ab5d6457067)
 
